@@ -2,4 +2,5 @@ snake
 =====
 
 simple game snake
-test
+npm install
+npm run watch
